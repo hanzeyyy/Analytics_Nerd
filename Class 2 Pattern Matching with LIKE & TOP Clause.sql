@@ -26,7 +26,7 @@ where emp_name like 'A%';
 
 select * from employee
 where emp_name like 'R%';
---this means that have ending name letter as 'A' and then before can be anything
+--this means that have ending name letter as 'R' and then before can be anything
 
 select * from employee
 where emp_name like '%gupta';
