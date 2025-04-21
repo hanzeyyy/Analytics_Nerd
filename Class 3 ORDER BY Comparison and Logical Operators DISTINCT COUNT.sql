@@ -34,7 +34,7 @@ where desi = 'manager' or dept = 'operns';
 
 select * from emp_inc
 where desi like 'm%';
---11 records (people who not managers)
+--11 records (people who are managers)
 
 
 select * from emp_inc
